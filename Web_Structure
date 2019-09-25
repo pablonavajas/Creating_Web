@@ -1,0 +1,21 @@
+</head>
+  <body>
+    <header>
+      recipe name
+      image
+      description
+    </header>
+    <section>
+      ingredients
+      list
+    </section>
+    <section>
+      preparation
+      list
+    </section>
+    <footer>
+      copyright
+    </footer>
+    <script src="index.js"></script>
+  </body>
+</html>
