@@ -1,0 +1,17 @@
+body {
+ font-family: Verdana; 
+ color: DarkSlateGrey;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 300%;
+}
+h1,h2 {
+  color: Red;
+  text-transform: uppercase;
+  font-weight: 100;
+}
